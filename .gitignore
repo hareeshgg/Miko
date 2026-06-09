@@ -1,0 +1,7 @@
+# Model
+model
+
+# virtual environment
+.venv
+
+__pycache__
